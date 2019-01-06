@@ -89,21 +89,21 @@ body{
     color: #ffffff;
     padding-left: 49vw;
     padding-left: 49    vw;
-    padding-top: 10vw;
+    padding-top: 12vw;
     padding-right: 10vw;
-    padding-bottom: 3vw;
+    padding-bottom: 1vw;
     width: 40vw;
     height: 40vw;
-    background-color: #009640;
+    background-color: rgb(0, 150, 64);
 }    
 
 #section-c .box2{
     font-size: 30px;
     color: #009640;
     padding-left: 8vw;
-    padding-top: 3vw;
+    padding-top: 5vw;
     padding-right: 50vw;
-    padding-bottom: 8vw;
+    padding-bottom: 6vw;
     width: 70vw;
     height: 40vw;
     background-color: #ffffff;
@@ -194,19 +194,16 @@ h5{
   background-color: rgba(255, 255, 255, 0.8);
 }
 
-.item2{
-    padding-left: 20vw;
-    padding-right: 0%;
-    font-size: 40px;
-    text-align: center;
-}
 .item3{
+    padding-top: 15px;
     font-size: 40px;
     text-align: center;
 }
 
 .item5{
+    padding-top: 10px;
     font-size: 16px;
+    text-align: center;
 }
 
  @media only screen and (max-width: 600px) {
