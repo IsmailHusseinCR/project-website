@@ -80,22 +80,33 @@ body{
     color: #009640;
 }
 
-#section-c{
+/* #section-c{
     display: flex;
-}
+} */
+
 
 #section-c .box1{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
     font-size: 30px;
     color: #ffffff;
-    padding-left: 49vw;
-    padding-left: 49    vw;
     padding-top: 12vw;
     padding-right: 10vw;
     padding-bottom: 1vw;
-    width: 40vw;
-    height: 40vw;
+    /* padding-left: 49vw;
+    padding-left: 49    vw;
+    padding-top: 12vw;
+    padding-right: 10vw;
+    padding-bottom: 1vw; */
+    /* width: 40vw;
+    height: 40vw; */
     background-color: rgb(0, 150, 64);
 }    
+
+/* #section-c .box1 h3{
+}
+*/
 
 #section-c .box2{
     font-size: 30px;
