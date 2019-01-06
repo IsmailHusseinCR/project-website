@@ -144,6 +144,10 @@ body{
     text-align: center;     
 }
 
+h5{
+    padding-left: 150px;
+}
+
 .box {
     width: 25%;
    display: flex;
