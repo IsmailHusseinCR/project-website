@@ -148,6 +148,10 @@ h5{
     padding-left: 150px;
 }
 
+p{
+    padding-left: 50px;
+}
+
 .box {
     width: 25%;
    display: flex;
