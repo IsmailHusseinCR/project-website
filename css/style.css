@@ -88,7 +88,7 @@ body{
     font-size: 30px;
     color: #ffffff;
     padding-left: 49vw;
-    padding-left: 49vw;
+    padding-left: 49    vw;
     padding-top: 10vw;
     padding-right: 10vw;
     padding-bottom: 3vw;
@@ -138,10 +138,10 @@ body{
 }
 
 #section-d {
-    display: flex;  
+    display: grid;  
     width: 100%;
     margin-right: 3em;
-    text-align: center;    
+    text-align: center;     
 }
 
 .box {
