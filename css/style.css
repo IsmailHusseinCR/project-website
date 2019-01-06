@@ -135,6 +135,12 @@ body{
     transition: 0.3s;
     align-items: baseline;
     border-radius: 50px; /* 5px rounded corners */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card p{
+    padding-left: 50px;
 }
 
 #section-d {
@@ -148,9 +154,6 @@ h5{
     padding-left: 150px;
 }
 
-p{
-    padding-left: 50px;
-}
 
 .box {
     width: 25%;
