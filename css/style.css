@@ -1,10 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
 
 body{
-    font-family: 'Staatliches', cursive;
+    font-family: 'arial';
     font-size: 20px;
     line-height: 1.6;
     background-color: rgb(255, 255, 255)
@@ -80,33 +81,22 @@ body{
     color: #009640;
 }
 
-/* #section-c{
+#section-c{
     display: flex;
-} */
-
+}
 
 #section-c .box1{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
     font-size: 30px;
     color: #ffffff;
-    padding-top: 12vw;
-    padding-right: 10vw;
-    padding-bottom: 1vw;
-    /* padding-left: 49vw;
+    padding-left: 49vw;
     padding-left: 49    vw;
     padding-top: 12vw;
     padding-right: 10vw;
-    padding-bottom: 1vw; */
-    /* width: 40vw;
-    height: 40vw; */
+    padding-bottom: 1vw;
+    width: 40vw;
+    height: 40vw;
     background-color: rgb(0, 150, 64);
 }    
-
-/* #section-c .box1 h3{
-}
-*/
 
 #section-c .box2{
     font-size: 30px;
@@ -182,8 +172,8 @@ h5{
 .footer {
     position: static;
     text-align: left;
-    background-color: #ffffff;
-    color: #009640;
+    background-color: #009640;
+    color: #fff;
  }
 
 .item1 { grid-area: header; }
@@ -238,3 +228,4 @@ h5{
         justify-content: flex-start;
     }
  } 
+
