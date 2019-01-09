@@ -76,30 +76,23 @@ h3{
     padding-right: 10%;
     padding-bottom: 4%;
     padding-top: 4%;
-    text-align: center;
-    
-}
-
-#section-a p {
-    font-size: 20px;
-    color: #009640;
-    text-align: center;
-    padding-top: 10vw;
-    
-}
-
-#section-a h2{
-    color: #009640;
+    text-align: left;
 }
 
 #section-a1 {
-    background-color: #009640;
     display: flex;
-    font-size: 20px;
+    background-color: #009640;
     color: #fff;
-    text-align: center;
-    padding-top: 10vw;
-    
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    text-align: right;
+}
+
+#section-a1 .scheiden{
+    padding-left: 10%;
+    padding: 100px;
 }
 
 
