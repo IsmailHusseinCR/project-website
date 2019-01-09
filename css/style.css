@@ -29,7 +29,7 @@ body{
     color: #ffffff;
 }
 
-#showcase h3{
+#showcase h6{
     padding-bottom: 10px; 
     font-family: 'Assistant', sans-serif;
 }
@@ -62,6 +62,10 @@ body{
     margin-top: -280px;
     margin-left: 50vw;
     font-family: 'Patua One', cursive;
+}
+
+#tekst h6{
+    font-size: 30px;
 }
 
 #randomid{
@@ -114,6 +118,7 @@ body{
 #section-b{
     background-color: #009640;
     color: #fff;
+    padding-top: 2%;
     padding-bottom: 2%;
     text-align: center;
 }
@@ -195,6 +200,7 @@ body{
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 3%;
+    margin-right: 1%;
 }
 
 .card p{
