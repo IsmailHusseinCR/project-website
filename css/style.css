@@ -203,6 +203,7 @@ body{
 
 
 .footer {
+    font-family: 'Patua One', cursive;
     position: relative;
     text-align: left;
     background-color: #009640;
@@ -230,7 +231,7 @@ body{
 
 .item3{
     padding-top: 15px;
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
 }
 
