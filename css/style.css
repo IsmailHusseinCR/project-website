@@ -10,6 +10,7 @@ body{
     line-height: 1.6;
     background-color: rgb(255, 255, 255)
 }
+
 #showcase{
     background-image:url('../img/Header1.jpg');
     background-size: cover;
@@ -71,11 +72,10 @@ h3{
 #section-a {
     display: flex;
     color: #009640;
-    padding: 30px;
-    padding-left: 10vw;
-    padding-right: 10vw;
-    padding-bottom: 4vw;
-    padding-top: 4vw;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+    padding-top: 4%;
     text-align: center;
     
 }
