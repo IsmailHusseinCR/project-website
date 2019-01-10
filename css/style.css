@@ -115,7 +115,7 @@ body{
     display: flex;
     color: #009640;
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 9%;
     padding-bottom: 8%;
     padding-top: 8%;
     text-align: left;
@@ -140,6 +140,7 @@ body{
     color: #fff;
     padding-top: 2%;
     padding-bottom: 2%;
+    padding-right: 1%;
     text-align: center;
 }
 
