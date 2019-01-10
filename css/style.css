@@ -24,14 +24,9 @@ body{
 
 #showcase h1{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 57px;
     line-height: 1.2;
     color: #ffffff;
-}
-
-#showcase h6{
-    padding-bottom: 10px; 
-    font-family: 'Assistant', sans-serif;
 }
 
 #showcase p{
@@ -43,7 +38,7 @@ body{
 #showcase .button{
     text-decoration: none;
     color: #ffffff;
-    font-size: 25px;
+    font-size: 50px;
     border: #ffffff 1px solid;
     padding: 10px 20px;
     border-radius: 25px;
@@ -53,19 +48,23 @@ body{
 
 #scherm{
     margin-top: 100px;
-    margin-left: 20%; 
+    margin-left: 15%; 
     width: 25%;
     height: 25%;
 }
 
 #tekst{
     margin-top: -280px;
-    margin-left: 50vw;
+    margin-left: 43%;
     font-family: 'Patua One', cursive;
 }
 
 #tekst h6{
-    font-size: 30px;
+    font-size: 250%;
+}
+
+#tekst p{
+    font-size: 150%;
 }
 
 #randomid{
@@ -82,19 +81,19 @@ body{
     color: #009640;
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 4%;
-    padding-top: 4%;
+    padding-bottom: 8%;
+    padding-top: 8%;
     text-align: left;
 }
 
 #section-a p{
-    padding-left: 10%;
-    padding-top: 20%;
-    font-size: 120%; 
+    padding-left: 19%;
+    padding-top: 4%;
+    font-size: 220%; 
 }
 
 #section-a1 {
-    padding-left: 20%;
+    padding-left: 15%;
     padding-right: 20%;
     display: flex;
     background-color: #009640;
@@ -105,9 +104,28 @@ body{
 }
 
 #section-a1 p{
-    font-size: 120%; 
+    font-size: 220%; 
+    padding-right: 16%;
+    padding-top: 6%;
+}
+
+#section-a2 {
+    margin-left: 13%;
+    margin-right: 13%;
+    display: flex;
+    color: #009640;
+    padding-left: 10%;
     padding-right: 10%;
-    padding-top: 20%;
+    padding-bottom: 8%;
+    padding-top: 8%;
+    text-align: left;
+}
+
+#section-a2 p{
+    padding-left: 19%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 220%; 
 }
 
 #scheiden{
@@ -137,7 +155,7 @@ body{
 }
 
 #section-c p{
-    padding-left: 20%; 
+    padding-left: 17%; 
 }
 
 #section-d  {
@@ -151,7 +169,7 @@ body{
 }
 
 #section-d p{
-    font-size: 95%;
+    font-size: 130%;
     color: #009640;
     padding-bottom: 2%;
     padding-top: 1%;
@@ -207,6 +225,11 @@ body{
 
 .card p{
     padding-left: 50px;
+    font-size: 120%;
+}
+
+.card b{
+    font-size: 130%;
 }
 
 
