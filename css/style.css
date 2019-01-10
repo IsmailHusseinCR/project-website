@@ -71,13 +71,13 @@ body{
 #randomid{
     background-color: #009640;
     color: white;
-    padding-bottom: 200px;
+    padding-bottom: 20%;
       
 }
 
 #section-a {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 13%;
+    margin-right: 13%;
     display: flex;
     color: #009640;
     padding-left: 10%;
@@ -88,13 +88,14 @@ body{
 }
 
 #section-a p{
-    padding-left: 3%;
-    padding-top: 10%;
+    padding-left: 10%;
+    padding-top: 20%;
+    font-size: 120%; 
 }
 
 #section-a1 {
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 20%;
+    padding-right: 20%;
     display: flex;
     background-color: #009640;
     color: #fff;
@@ -104,8 +105,9 @@ body{
 }
 
 #section-a1 p{
-    padding-right: 3%;
-    padding-top: 10%;
+    font-size: 120%; 
+    padding-right: 10%;
+    padding-top: 20%;
 }
 
 #scheiden{
@@ -149,10 +151,10 @@ body{
 }
 
 #section-d p{
-    font-size: 90%;
+    font-size: 95%;
     color: #009640;
     padding-bottom: 2%;
-    padding-top: 2%;
+    padding-top: 1%;
 }
 
 #section-d h2{
@@ -199,7 +201,7 @@ body{
     border-radius: 50px; /* 5px rounded corners */
     padding-left: 20px;
     padding-right: 20px;
-    margin-bottom: 3%;
+    margin-bottom: 2%;
     margin-right: 1%;
 }
 
@@ -239,7 +241,7 @@ body{
     padding-top: 15px;
     font-size: 35px;
     text-align: center;
-    padding-bottom: 1%;
+    padding-bottom: 5px;
 }
 
 .item5{
